@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "foodie/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "foodie"
+  spec.name          = "darkwasp99_foodie"
   spec.version       = Foodie::VERSION
   spec.authors       = ["DarkWasp"]
   spec.email         = ["coderwasp@gmail.com"]
